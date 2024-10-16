@@ -1,0 +1,2 @@
+# ingestion/requirements.txt
+requests
